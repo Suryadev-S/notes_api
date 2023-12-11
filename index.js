@@ -1,5 +1,5 @@
 const express = require("express");
-const cors = requrie("cors");
+const cors = require("cors");
 const noteRoutes = require("./routes/Notes");
 const authRoutes = require("./routes/Auth");
 const mongoose = require("mongoose");
